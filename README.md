@@ -58,5 +58,6 @@ This trust score reflects the participant’s reliability and behavior
 comprehensively.
 
 • TCR and AFS have the highest weights (30%) because they represent direct and proactive indicators of trust and reliability.
+
 • CR and DRS are weighted slightly lower (20%) since they are more reactive and provide secondary support to the overall trust
 model.
