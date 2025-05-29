@@ -1,5 +1,4 @@
 Simulation for Trust Management in Peer‐to‐Peer Networks Through Blockchain‐Based Machine Learning Anomaly Detection. The proposed algorithm establishes a detailed model for initializing trust metrics in a blockchain environment. By systematically collecting, pro‐ cessing, and analyzing data, it ensures an accurate and comprehensive trust assessment of participants. 
-
 #Algorithm Overview
 This multi‐step algorithm incorporates the following steps:
 
