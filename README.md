@@ -8,8 +8,11 @@ Gather all relevant data for participants, including:
 • Total transactions
 
 • Successful transactions
+
 • Feedback ratings from peers
+
 • Number of disputes resolved
+
 These details can be extracted from the blockchain ledger and
 external sources.
 
