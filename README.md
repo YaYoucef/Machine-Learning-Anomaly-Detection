@@ -40,3 +40,23 @@ After conducting empirical testing and analyzing the results, we fix
 the weights for each parameter to optimize the performance of your
 system. The fixed weights should reflect their relative importance
 and contribution to the trust score.
+
+• TCR can be valued at 30% of the total WTCR = 30%.
+
+• AFS can be valued at 30% of the total WAFS = 30%
+
+• CR can be valued at 20% of the total WCR = 20%.
+
+• DRS can be valued at 20% of the total WDRS = 20%.
+
+## 5. Composite Trust Score Calculation:
+Compute the overall trust score using the weighted sum of normal‐
+ized metrics:
+
+Trust Score= (TCR* WTCR)+(AFS*WAFS) +(CR*WCR)+(DRS* WDRS) (1)
+This trust score reflects the participant’s reliability and behavior
+comprehensively.
+
+• TCR and AFS have the highest weights (30%) because they represent direct and proactive indicators of trust and reliability.
+• CR and DRS are weighted slightly lower (20%) since they are more reactive and provide secondary support to the overall trust
+model.
