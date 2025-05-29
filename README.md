@@ -20,13 +20,14 @@ external sources.
 ## 2. Metric Calculation:
 
 Compute the following trust metrics for each participant:
-• Transaction Completion Rate (TCR): Measures reliability in com‐
-pleting transactions.
+
+• Transaction Completion Rate (TCR): Measures reliability in completing transactions.
 
 • Average Feedback Score (AFS): Reflects peer satisfaction andinteraction quality.
+
 • Complaint Ratio (CR): Indicates the frequency of complaints relative to total transactions.
-• Dispute Resolution Success (DRS): Evaluates efficiency in resolv‐
-ing disputes.
+
+• Dispute Resolution Success (DRS): Evaluates efficiency in resolving disputes.
 
 ## 3. Normalization:
 
