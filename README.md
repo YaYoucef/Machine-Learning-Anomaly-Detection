@@ -5,6 +5,7 @@ This multi‐step algorithm incorporates the following steps:
 ## 1. Data Collection:
 
 Gather all relevant data for participants, including:
+
 • Total transactions
 
 • Successful transactions
