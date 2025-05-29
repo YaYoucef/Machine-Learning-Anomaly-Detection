@@ -53,7 +53,7 @@ and contribution to the trust score.
 Compute the overall trust score using the weighted sum of normal‐
 ized metrics:
 
-Trust Score= (TCR* WTCR)+(AFS*WAFS) +(CR*WCR)+(DRS* WDRS) (1)
+Trust Score= (TCR*WTCR)+(AFS*WAFS) +(CR*WCR)+(DRS*WDRS) (1)
 This trust score reflects the participant’s reliability and behavior
 comprehensively.
 
